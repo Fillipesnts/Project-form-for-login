@@ -33,13 +33,6 @@ Nada além disso. Projeto direto ao ponto.
 
 ---
 
-## 📂 Estrutura do projeto
+## Deploy do Projeto
 
-```bash
-📁 outpost-login
-├── index.html
-├── css
-│   └── styles.css
-└── img
-    ├── segunda opção de fundo.png
-    └── pngtree-ruined-city-after-apocalypse-png-image_21130988.png
+- https://fillipesnts.github.io/Project-form-for-login/
